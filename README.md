@@ -5,8 +5,8 @@
 <hr style="height:15px; border:0; background:#40e0d0; box-shadow:0px 0px 5px #000000 inset;"/>
 <div align="center">
   <a href="https://github.com/D13GO91">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=D13GO91&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D13GO91&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=D13GO91&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D13GO91&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <hr style="height:15px; border:0; background:#40e0d0; box-shadow:0px 0px 5px #000000 inset;"/>
 <div style="display: inline_block"><br>
