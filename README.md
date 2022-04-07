@@ -1,7 +1,7 @@
 ### Hi, I'm Diego Amador
 
 - 🔭 Today, i work as an IT Support Analyst
-- 🌱 I'm studying Front-end
+- 🌱 I'm studying Front-end (HTML, CSS, JavaScript, React and Next.js
 <hr style="height:15px; border:0; background:#40e0d0; box-shadow:0px 0px 5px #000000 inset;"/>
 <div align="center">
   <a href="https://github.com/D13GO91">
