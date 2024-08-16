@@ -26,8 +26,7 @@
 </div>
   <h4>Back-End</h4>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/nodejs-original.svg">
-
+  <img align="center" alt="Node JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </div>
   
   
